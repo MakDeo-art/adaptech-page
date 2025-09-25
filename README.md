@@ -1,7 +1,6 @@
 [index.html](https://github.com/user-attachments/files/22539835/index.html)
 <!DOCTYPE html>
 
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -95,7 +94,8 @@
 
   <div class="container">
     <!-- Imagen del producto -->
-    <img scr=![producto](https://github.com/user-attachments/assets/468c2144-99b6-4634-a499-d119e94cae82)>
+    <img img=![producto](https://github.com/user-attachments/assets/468c2144-99b6-4634-a499-d119e94cae82)>
+    ![logo](https://github.com/user-attachments/assets/09dad208-6829-48ab-b20d-0286d0ef198c).
     <div class="product-info">
       <h2>Adapt Hut</h2>
       <p>
