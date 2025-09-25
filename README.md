@@ -1,7 +1,6 @@
 [index.html](https://github.com/user-attachments/files/22539835/index.html)
 <!DOCTYPE html>
-![logo](https://github.com/user-attachments/assets/c0eb6d9a-9269-41f8-ac01-7225cff7e42c)
-![producto](https://github.com/user-attachments/assets/468c2144-99b6-4634-a499-d119e94cae82)
+
 
 <head>
   <meta charset="UTF-8">
@@ -90,13 +89,13 @@
 <body>
   <header>
     <!-- Logo de la empresa -->
-    <img src="logo.png" alt="Logo Adaptech Wear"> 
+    <img img=![logo](https://github.com/user-attachments/assets/c0eb6d9a-9269-41f8-ac01-7225cff7e42c)> 
     <h1>Adaptech Wear</h1>
   </header>
 
   <div class="container">
     <!-- Imagen del producto -->
-    <img src="producto.jpg" alt="Adapt Hut" class="product-img">
+    <img img=![producto](https://github.com/user-attachments/assets/468c2144-99b6-4634-a499-d119e94cae82)>
     <div class="product-info">
       <h2>Adapt Hut</h2>
       <p>
