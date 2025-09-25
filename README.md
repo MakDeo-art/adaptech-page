@@ -1,7 +1,5 @@
 [index.html](https://github.com/user-attachments/files/22539835/index.html)
 <!DOCTYPE html>
-<html lang="es">![logo](https://github.com/user-attachments/assets/0918c4c7-88cc-4f38-b0ff-06f6336a694b)
-![producto](https://github.com/user-attachments/assets/50e1d466-ef39-4e93-9365-3057f019c5e1)
 
 <head>
   <meta charset="UTF-8">
