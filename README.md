@@ -89,13 +89,13 @@
 <body>
   <header>
     <!-- Logo de la empresa -->
-    <img img=![logo](https://github.com/user-attachments/assets/c0eb6d9a-9269-41f8-ac01-7225cff7e42c)> 
+    <img scr=![logo](https://github.com/user-attachments/assets/c0eb6d9a-9269-41f8-ac01-7225cff7e42c)> 
     <h1>Adaptech Wear</h1>
   </header>
 
   <div class="container">
     <!-- Imagen del producto -->
-    <img img=![producto](https://github.com/user-attachments/assets/468c2144-99b6-4634-a499-d119e94cae82)>
+    <img scr=![producto](https://github.com/user-attachments/assets/468c2144-99b6-4634-a499-d119e94cae82)>
     <div class="product-info">
       <h2>Adapt Hut</h2>
       <p>
